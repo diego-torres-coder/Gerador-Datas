@@ -15,14 +15,13 @@ temporais.
 
 ## Demo
 
-Confira a aplicação já hospedada, clicando neste link: ## Aplicação Hospedada
+Confira a aplicação já hospedada, clicando neste link: 
 
-https://diego-torres-coder-gerador-datas-main-t84qnx.streamlit.app/
-
+- https://diego-torres-coder-gerador-datas-main-t84qnx.streamlit.app/
 
 ## Como Reproduzir este Projeto
 
-Primeiramente, navegue até a pasta em que deseja reproduzir este projeto. Em seguida, 
+Primeiramente, navegue até a pasta em que deseja reproduzir este projeto. Em seguida,
 digite este comando no terminal:
 
 ```bash
