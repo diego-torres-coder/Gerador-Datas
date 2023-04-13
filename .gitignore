@@ -1,0 +1,13 @@
+# Ambiente virtual do Python
+.venv/
+venv/
+
+# Arquivo com variáveis de ambiente
+.env
+
+# Checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
